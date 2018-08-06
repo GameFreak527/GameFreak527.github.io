@@ -10,15 +10,15 @@
   let ScoreBoard: managers.ScoreBoard;
 
   let Manifest = [
-    { id: "StartButton", src: "/Assets/images/StartButton.png" },
-    { id: "RestartButton", src: "/Assets/images/RestartButton.png" },
-    { id: "plane", src: "/Assets/images/spaceship.png" },
-    { id: "universe", src: "/Assets/images/background.png" },
-    { id: "starmini", src: "/Assets/images/starmini.png" },
-    { id: "meteroid", src: "/Assets/images/meteroid.png" },
-    { id: "yay", src: "/Assets/audio/coin.wav" },
-    { id: "thunder", src: "/Assets/audio/explosion.mp3" },
-    { id: "engine", src: "/Assets/audio/background-music.mp3" }
+    { id: "StartButton", src: "../Assets/images/StartButton.png" },
+    { id: "RestartButton", src: "../Assets/images/RestartButton.png" },
+    { id: "plane", src: "../Assets/images/spaceship.png" },
+    { id: "universe", src: "../Assets/images/background.png" },
+    { id: "starmini", src: "../Assets/images/starmini.png" },
+    { id: "meteroid", src: "../Assets/images/meteroid.png" },
+    { id: "yay", src: "../Assets/audio/coin.wav" },
+    { id: "thunder", src: "../Assets/audio/explosion.mp3" },
+    { id: "engine", src: "../Assets/audio/background-music.mp3" }
   ];
 
   function Init(): void {
