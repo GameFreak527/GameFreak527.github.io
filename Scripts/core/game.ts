@@ -11,7 +11,7 @@
 
   let Manifest = [
     { id: "StartButton", src: "./Assets/images/StartButton.png" },
-    { id: "RestartButton", src: "./Assets/images/restartButton.png" },
+    { id: "RestartButton", src: "./Assets/images/RestartButton.png" },
     { id: "plane", src: "./Assets/images/spaceship.png" },
     { id: "universe", src: "./Assets/images/background.png" },
     { id: "starmini", src: "./Assets/images/starmini.png" },
